@@ -6,3 +6,5 @@ Tehtävät
      
 2. IF statements
    - Palautuksen valmis versio = If_Statements.ipynb
+  
+3. 
