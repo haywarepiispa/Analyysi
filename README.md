@@ -9,3 +9,6 @@ Tehtävät
   
 3. List exercises
    - Palautuksen valmis versio = List_Exercises.ipynb
+
+4. Guessing game
+   - Palautuksen valmis versio = Guessing_game.ipynb
