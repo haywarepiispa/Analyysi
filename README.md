@@ -12,3 +12,9 @@ Tehtävät
 
 4. Guessing game
    - Palautuksen valmis versio = Guessing_game.ipynb
+
+5. GettingToKnowYourData
+   - Unfinished / ei valmis arviointiin
+
+6. Combining Data
+   - Palautuksen valmis versio = Combining_Data.ipynb
