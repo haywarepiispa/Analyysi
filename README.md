@@ -18,3 +18,6 @@ Tehtävät
 
 6. Combining Data
    - Palautuksen valmis versio = Combining_Data.ipynb
+  
+7. Dataset (not exercise)
+   - Included just in case / lisätty varmuuden vuoksi
